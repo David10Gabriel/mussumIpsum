@@ -5,5 +5,21 @@
         "body": [
             "Mussum Ipsum, cacilds vidis litro abertis. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Per aumento de cachacis, eu reclamis. Paisis, filhis, espiritis santis. Cevadis im ampola pa arma uma pindureta."
         ]
-    }
+    },
+    
+    "MussumFrase": {
+        "prefix": "MussumF",
+        "description": "Mussum Ipsum de uma frase",
+        "body": [
+            "Mussum Ipsum, cacilds vidis litro abertis. Mauris nec dolor in eros commodo tempor."
+        ]
+    },
+
+    "MussumFrase2": {
+        "prefix": "MussumF2",
+        "description": "Mussum Ipsum de duas frases",
+        "body": [
+            "Mussum Ipsum, cacilds vidis litro abertis. Casamentiss faiz malandris se pirulitá. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis."
+        ]
+    }    
 }
