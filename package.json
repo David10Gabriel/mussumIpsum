@@ -3,6 +3,8 @@
     "displayName": "Mussum Ipsum",
     "description": "Lorem ipsum do Mussum",
     "version": "0.0.1",
+    "publisher": "DavidGOliveira",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.37.0"
     },
