@@ -1,6 +1,6 @@
 {
-    "name": "mussumIpsum",
-    "displayName": "mussumIpsum",
+    "name": "mussumipsum",
+    "displayName": "Mussum Ipsum",
     "description": "Lorem ipsum do Mussum",
     "version": "0.0.1",
     "engines": {
@@ -13,7 +13,7 @@
         "snippets": [
             {
                 "language": "",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/snippets.code-snippets"
             }
         ]
     }
