@@ -4,6 +4,7 @@
     "description": "Lorem ipsum do Mussum",
     "version": "0.0.1",
     "publisher": "DavidGOliveira",
+    "repository": "https://github.com/David10Gabriel/mussumIpsum",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.37.0"
