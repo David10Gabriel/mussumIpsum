@@ -2,8 +2,8 @@
     "name": "mussumipsum",
     "displayName": "Mussum Ipsum",
     "description": "Lorem ipsum do Mussum",
-    "version": "0.0.1",
-    "publisher": "DavidGOliveira",
+    "version": "0.0.2",
+    "publisher": "DavidGabrielOliveira",
     "repository": "https://github.com/David10Gabriel/mussumIpsum",
     "icon": "icon.png",
     "engines": {
